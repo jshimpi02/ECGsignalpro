@@ -2,7 +2,7 @@
 # 🩺 ECG Signal Processing and Classification
 
 ## 🚀 Project Overview
-This project focuses on **Electrocardiogram (ECG) signal processing**, **feature extraction**, and **classification** using both **traditional machine learning (SVM)** and **deep learning models (CNN, LSTM)**. The goal is to detect abnormal heart conditions by analyzing ECG signals from the **MIT-BIH Arrhythmia Database**.
+This project focuses on developing a robust pipeline for **Electrocardiogram (ECG) signal processing**, **feature extraction**, and **classification** to detect cardiac arrhythmias using both **traditional machine learning (SVM)** and **deep learning models (CNN, LSTM)**. The goal is to automate the detection of abnormal rhythms, improving early diagnosis and reducing reliance on manual interpretation by analyzing ECG signals from the **MIT-BIH Arrhythmia Database**.
 
 ---
 
