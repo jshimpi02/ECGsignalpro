@@ -1,4 +1,3 @@
-# ECGsignalpro
 # 🩺 ECG Signal Processing and Classification
 
 ## 🚀 Project Overview
